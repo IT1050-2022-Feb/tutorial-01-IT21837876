@@ -16,7 +16,7 @@ int main() {
    
    average = (mark1 + mark2)/2.0;
    
-   printf("Aerage : .2lf", average);
+   printf("Aerage : %.2lf", average);
   return 0;
 }
 
